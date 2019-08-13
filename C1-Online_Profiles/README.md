@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Github Link](https://github.com/heimannkim)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Link](https://www.linkedin.com/in/kim-heimann-26a60690/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Kim M Heimann](https://github.com/heimannkim/liftoff-assignments/Kim_M_Heimann.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
